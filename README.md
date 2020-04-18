@@ -6,7 +6,7 @@ Stack of development:
   
 ## Build project
 
-Just run `make build` to generate all binaries for distinct OS. Checkout on the folder called `out`, inside you find the executable and compressed zip file.
+Just run `make build` to generate all binaries for distinct OS. Check out on the folder called `out`, inside the folder you find the executable and compressed zip file.
 
 ## Running tests
 
@@ -47,7 +47,7 @@ Usage of go-urlhash.lin:
 ➜ go-urlhash.lin -parallel 3 -urls https://google.com -urls https://twitter.com -urls https://yahoo.com -urls https://adjust.com -urls https://facebook.com
 ```
 
-### Use the params "parallel" and "urls" (doble quotes)
+### Use the params "parallel" and "urls" (double quotes)
 
 ```text
 ➜ go-urlhash.lin -parallel 3 -urls "https://google.com https://twitter.com https://yahoo.com https://adjust.com https://facebook.com"
