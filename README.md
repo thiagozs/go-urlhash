@@ -57,6 +57,6 @@ Usage of go-urlhash.lin:
 
 We use SemVer for versioning. You can see the versions available by checking the tags on this repository.
 
-For more details about our license model, please take a look at the [LICENSE](LICENCE) file.
+For more details about our license model, please take a look at the [LICENSE](https://github.com/thiagozs/go-urlhash/blob/master/LICENSE) file.
 
 **2020, thiagozs**
